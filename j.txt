@@ -1,0 +1,2 @@
+very important to learn and explore new tech on own.
+now can use git and can set up a git server.
